@@ -23,9 +23,13 @@ Aplicación móvil desarrollada con **Jetpack Compose** que permite calcular una
 
 ---
 
-## 📷 Capturas de pantalla
+## 📷 Vistas principales de la app
 
-> *(Puedes agregar imágenes aquí si lo deseas)*
+<p align="center">
+  <img src="imagenes/pantalla1.png" width="200"/>
+  <img src="imagenes/pantalla2.png" width="200"/>
+  <img src="imagenes/pantalla3.png" width="200"/>
+</p>
 
 ```bash
 📱 Pantalla principal

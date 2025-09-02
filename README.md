@@ -1,4 +1,4 @@
-# 💧 RetoAguaApp – Calculadora de Hidratación Diaria
+# 💧 RetoAguaApp (con estado) – Calculadora de Hidratación Diaria 💧
 
 Aplicación móvil desarrollada con **Jetpack Compose** que permite calcular una **meta diaria de consumo de agua** según el peso del usuario y si ha realizado ejercicio. Los usuarios pueden registrar la cantidad de agua consumida y hacer seguimiento a su progreso diario.
 
